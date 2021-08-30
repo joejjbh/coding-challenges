@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=34e38884_002D3ff8_002D4a45_002D9415_002D1458fc4ed760/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5501bc9d_002Da4ed_002D4c44_002Db902_002D44129e97273a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Solution /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c7b9d608_002Dfd92_002D4512_002Db94b_002D9b0fa60fde5d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetRobotPositions_ShouldGetPositionForEachRobotInTheArena" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0082506-0759-4509-BA2B-14A72E41612D::.NETCoreApp,Version=v3.1::RobotWarsKata.Tests.RobotWarTests.GetRobotPositions_ShouldGetPositionForEachRobotInTheArena&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eac54473_002D5867_002D417f_002D8a69_002D5b214857eef2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Play_WhenGivenEmptyString_ShouldError" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A0082506-0759-4509-BA2B-14A72E41612D::.NETCoreApp,Version=v3.1::RobotWarsKata.Tests.RobotWarTests.Play_WhenGivenEmptyString_ShouldError&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
