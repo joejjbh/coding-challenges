@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0f4fce9f_002Dbfaf_002D47bf_002D85cb_002Db105986e0d12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Constructor_WhenGivenInvalidOfferQuantity_ReturnsException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.ItemUnitTests.Constructor_WhenGivenInvalidOfferQuantity_ReturnsException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=188da627_002D50ef_002D4ee5_002Da9b0_002Df71a491f1ae9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Scan_WhenItemGivenDoesNotExist_ShouldThrowException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests.SaveItem&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.CheckoutUnitTests.GetTotalPrice_WhenNoScannedItems_ShouldReturn0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.CheckoutUnitTests.GetTotalPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests.GetItemSubTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests.GetItemSubTotal_WhenItemDoesNotHaveSpecialOffer_ShouldReturnTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests.GetItemSubTotal_WhenItemHasSpecialOffer_ShouldReturnTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.CheckoutUnitTests.Scan_GivenItemThatExistsAndHasNotBeenAddedBefore_ShouldAddItemToScannedItems&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests.SaveItem_WhenGivenInvalidItem_ShouldThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.CheckoutUnitTests.Constructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.ItemUnitTests.Constructor_WhenGivenInvalidOfferQuantity_ReturnsException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e0c3ed2_002D1d6e_002D4101_002D9472_002D2bbdf8bf19d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CheckoutUnitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.CheckoutUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests.GetItem_WhenGivenItemThatDoesnNotExist_ShouldReturnNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::FF5972BC-AE4B-4E0B-8938-ACEDF4183EF1::.NETCoreApp,Version=v3.1::SupermarketKata.Tests.WarehouseUnitTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
